@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="298" src="https://media.licdn.com/dms/image/v2/D4D16AQGeywZYUekawQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726686849838?e=1732752000&v=beta&t=RwUKFQYo_FAX9IMrhr-5e0KnxEhuSMLQkYUB7A1_FhA"  />
-</div>
-
-###
-
 <h2 align="center">Welcome to my profile 🐱‍👤👨‍💻</h2>
 
 ###
